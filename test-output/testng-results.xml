@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T16:55:22 PKT" name="Default suite" finished-at="2024-06-20T16:56:03 PKT" duration-ms="40306">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T16:55:22 PKT" name="Default test" finished-at="2024-06-20T16:56:03 PKT" duration-ms="40306">
+      <class name="com.coding.Appium.SetWifii">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:com.coding.Appium.SetWifii@43bc63a3]" started-at="2024-06-20T16:55:22 PKT" name="configureAppium" finished-at="2024-06-20T16:55:49 PKT" duration-ms="26978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="setwifi()[pri:0, instance:com.coding.Appium.SetWifii@43bc63a3]" started-at="2024-06-20T16:55:49 PKT" name="setwifi" finished-at="2024-06-20T16:56:01 PKT" duration-ms="11874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setwifi -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.coding.Appium.SetWifii@43bc63a3]" started-at="2024-06-20T16:56:01 PKT" name="TearDown" finished-at="2024-06-20T16:56:03 PKT" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.coding.Appium.SetWifii -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
